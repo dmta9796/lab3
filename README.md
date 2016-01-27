@@ -1,3 +1,4 @@
 Dmitriy Tarasov
 lab3
-this might make merge conflict
+Partner: Shawn Polson ;D
+does coding 
